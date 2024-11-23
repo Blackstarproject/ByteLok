@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35325.158
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ByteLok", "ByteLok\ByteLok.vbproj", "{85FCB633-E810-41DA-9BDD-5F6A47567EF7}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Wall", "Wall\Wall.vbproj", "{E5DF3B63-2493-4C46-993D-350566450DD4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85FCB633-E810-41DA-9BDD-5F6A47567EF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85FCB633-E810-41DA-9BDD-5F6A47567EF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85FCB633-E810-41DA-9BDD-5F6A47567EF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85FCB633-E810-41DA-9BDD-5F6A47567EF7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5DF3B63-2493-4C46-993D-350566450DD4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5DF3B63-2493-4C46-993D-350566450DD4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5DF3B63-2493-4C46-993D-350566450DD4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5DF3B63-2493-4C46-993D-350566450DD4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E858D90-7A8A-4D24-BFD8-DB6601ECF4CF}
+	EndGlobalSection
+EndGlobal
